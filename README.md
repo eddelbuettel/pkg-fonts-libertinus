@@ -44,6 +44,9 @@ downloaded rather than made from their sources. That is not exactly how
 Debian does things; some discussion (for a different font) is at
 [this bug report](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=736681).
 
+Updated versions are available at [Libertinus](https://github.com/libertinus-fonts/libertinus/)
+but have not been packaged here since the initial build.
+
 ### See Also
 
 My similar repositories for creating packages for
